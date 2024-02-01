@@ -19,9 +19,5 @@ This React Native application is a dedicated job search app for fitness enthusia
 - **components**: Reusable React components contributing to the overall fitness-themed app.
 - **constants**: Fitness-related constants and configurations used throughout the application.
 
-## 🛠️ Getting Started
-### Prerequisites
-- Node.js: Ensure Node.js is installed on your machine, powering up your fitness app development.
-- React Native CLI: Install the React Native command-line interface, your gateway to crafting an exceptional fitness job search app.
+![Fitness-App-Intro](https://github.com/SarkissArmaniUS/React-Native_Fitness-App/assets/97789627/285c5eb4-cc33-4662-9310-bdea9ff2d7b8)
 
-![Fitness-App-Intro](https://github.com/SarkissArmaniUS/React-Native_Fitness-App/assets/97789627/949a40af-4215-4abd-b8bd-9122712a61bd)
